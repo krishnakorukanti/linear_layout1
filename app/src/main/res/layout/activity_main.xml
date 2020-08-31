@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    android:background="@color/backgroundClr"
+    tools:context=".MainActivity">
+
+
+    <!-- Masai School -->
+
+    <TextView
+        android:id="@+id/masai_schoo"
+        android:layout_width="143dp"
+        android:layout_height="25dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="108dp"
+        android:layout_marginTop="24dp"
+        android:gravity="top"
+        android:text="@string/masai_school"
+        android:textAppearance="@style/masai_school" />
+
+    <TextView
+        android:id="@+id/hello_world"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="247dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="15dp"
+        android:text="@string/hello_world"
+        android:textAppearance="@style/hello_world"
+        android:gravity="top"
+        />
+
+
+    <TextView
+        android:id="@+id/android"
+        android:layout_width="81dp"
+        android:layout_height="25dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="47dp"
+        android:text="@string/android"
+        android:textAppearance="@style/android"
+        android:gravity="top"
+        />
+
+
+
+</LinearLayout>

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">linear_layout1</string>
+    <string name="tvMasaiText">Masai School</string>
+    <string name="tvAndroid">Android</string>
+    <string name="tvHelloWorld">Hello World</string>
+    <!-- strings.xml -->
+    <string name="masai_school">
+
+Masai School
+</string>
+    <string name="hello_world">
+
+Hello World
+</string>
+
+    <string name="android">
+
+Android
+</string>
+</resources>
